@@ -1,0 +1,62 @@
+body {
+  margin:0;
+}
+
+.mt{
+  margin-top:50px;
+}
+
+.w200{
+  width:350px;
+}
+
+.h200{
+  height:250px;
+}
+
+.mm{
+  margin-left:75%;
+  margin-top:100px;
+   }
+
+.hs{
+  font-size: 2pc;
+  margin-left: 40px;
+}
+
+.pl{
+margin-top: 50px;
+font-size: 1.5pc;
+}
+
+.pp{
+  
+  font-size: 1.5pc;
+  margin-top: -50px;
+}
+
+.b{
+margin-left: 110px;
+  margin-top: -30px;
+}
+.ac{
+margin-top: -320px;
+width:30cm;
+margin-left: 40px;
+}
+
+.c1{
+ 
+ font-size: 1.5pc;
+ height: 60px;
+ margin-left: 60pc;
+ margin-top: -60px;
+}
+.c2{
+  margin-left: 60pc;
+  font-size: 1.5pc;
+  height:70px;
+}
+
+
+  
