@@ -5,7 +5,7 @@
     "dev": "npm-run-all dev:init --parallel dev:server dev:client",
     "build": "tsc && vite build",
     "dev:server": "convex dev",
-    "dev:client": "vite --open",
+    "start": "vite --open",
     "dev:init": "convex dev --run init --until-success"
   },
   "dependencies": {
